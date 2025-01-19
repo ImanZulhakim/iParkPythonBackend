@@ -53,8 +53,8 @@ python
 
 
 ## Related Repositories
-- **[iPARK Android Application](https://github.com/username/iPark-Mobile-App):** iPark Mobile App  
-- **[iPARK Web-Based Admin Panel](https://github.com/username/iPark-Web-Admin-Panel):** iPark Web Admin Panel
+- **[iPARK Android Application](https://github.com/ImanZulhakim/iPark):** iPark Mobile App  
+- **[iPARK Web-Based Admin Panel](https://github.com/ImanZulhakim/iPark_Web):** iPark Web Admin Panel
 
 
 ## Contributing
